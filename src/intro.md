@@ -3,15 +3,15 @@ icon: circle-info
 # cover: /assets/images/cover3.jpg
 ---
 
-# 梁万丰 - 前端开发
- 
+# 梁万丰 - 前端开发简历
+
 
 
 于2019年开始接触前端，喜欢编码，有Geek精神。
 
 
-对代码有洁癖，喜欢接触前沿技术，爱折腾。
-
+对代码有洁癖，喜欢接触前沿技术，`爱折腾`。
+ <!-- more -->
 
 :::left
 
@@ -24,18 +24,22 @@ C语言程序开发</span>
 <span style="background:#eee;padding:5px;border-radius:6px;">
 数据结构</span>
 <span style="background:#eee;padding:5px;border-radius:6px;">
-前端框架技术</span>
+前端框架技术</span>  
+
 <span style="background:#eee;padding:5px;border-radius:6px;">
 Java程序开发</span>
 <span style="background:#eee;padding:5px;border-radius:6px;">
 Android程序设计</span>
+
+### 广东东软学院 - 网络工程（2024.9 - 2025.6）
+摸鱼中~
 
 
 
 
 ## 工作经验
 
-### xxx（2018.7-至今）
+### 广州天喜科技有限公司（2021.7）
 努力打工中...
 
 ### 杭州xxx网络有限公司 - 实习 （2018.3-2018.7）
