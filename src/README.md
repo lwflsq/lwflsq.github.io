@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /assets/images/logo.png
 heroText: cv blog
 heroFullScreen: false
-tagline: 永远不能放弃cv
+tagline: 其实不是很难！！！
 projects:
   - icon: project
     name: lwf-im
