@@ -4,13 +4,14 @@ export const zhNavbar = navbar([
   "/",
   {
     text: "博文",
-    icon: "pen-to-square",
-    prefix: "/posts/",
+    icon: "pen-to-square",  
     children: [
       {
         text: "uniapp",
         icon: "pen-to-square",
-        link: 'uniapp'
+        prefix:'/posts/',
+        children: ["uniapp"
+        ]
       }
     ],
   },
