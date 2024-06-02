@@ -4,8 +4,9 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /assets/images/logo.png
+bgImage: /assets/images/blog-bg.jpg
 heroText: cv blog
-heroFullScreen: false
+heroFullScreen: true
 tagline: 其实不是很难！！！
 projects:
   - icon: project
