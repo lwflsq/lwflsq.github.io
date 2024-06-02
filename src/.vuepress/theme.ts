@@ -27,6 +27,10 @@ export default hopeTheme({
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press/zh",
       },
+      ashmcracker: {
+        icon: "https://avatars.githubusercontent.com/u/106781371?v=4",
+        link: "https://github.com/ashmcracker"
+      }
     },
   },
 
@@ -62,7 +66,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "cv",
 
       displayFooter: true,
 

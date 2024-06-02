@@ -19,17 +19,8 @@ icon: circle-info
 ### 广州番禺职业技术学院 - 软件技术（2014.9 - 2018.6）
 
 专业核心课程：
-<span style="background:#eee;padding:5px;border-radius:6px;">
-C语言程序开发</span>
-<span style="background:#eee;padding:5px;border-radius:6px;">
-数据结构</span>
-<span style="background:#eee;padding:5px;border-radius:6px;">
-前端框架技术</span>  
-
-<span style="background:#eee;padding:5px;border-radius:6px;">
-Java程序开发</span>
-<span style="background:#eee;padding:5px;border-radius:6px;">
-Android程序设计</span>
+`C语言程序开发`  `数据结构`  `前端框架技术`  
+`Java程序开发` `Android程序设计`
 
 ### 广东东软学院 - 网络工程（2024.9 - 2025.6）
 摸鱼中~

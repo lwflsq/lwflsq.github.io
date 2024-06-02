@@ -18,6 +18,11 @@ projects:
     desc: 创建自己的博客
     link: https://gitee.com/lwf112599/lwfblogs
 
+  - icon: friend
+    name: Ashm blog
+    desc: 谭海锋的博客
+    link: https://ashmcracker.github.io
 
-footer: cv 
+
+footer: true 
 ---

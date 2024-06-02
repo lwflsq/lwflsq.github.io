@@ -20,4 +20,9 @@ export const zhNavbar = navbar([
     icon: "book",
     link: "https://github.com/lwflsq/lwf-blog",
   },
+  {
+    text: "个人简介",
+    icon: "book",
+    link: "intro"
+  },
 ]);
