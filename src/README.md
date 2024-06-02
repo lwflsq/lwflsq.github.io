@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /assets/images/logo.png
-bgImage: /assets/images/blog-bg.jpg
+heroImage: https://mp-e8d39265-f804-4268-b106-f7990e4ce87e.cdn.bspapp.com/cloudstorage/logo.png
+bgImage: https://mp-e8d39265-f804-4268-b106-f7990e4ce87e.cdn.bspapp.com/cloudstorage/blog-bg.jpg
 heroText: cv blog
 heroFullScreen: true
 tagline: 其实不是很难！！！

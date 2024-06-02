@@ -1,6 +1,8 @@
 ---
 icon: circle-info
 # cover: /assets/images/cover3.jpg
+navbar: false
+sidebar: false
 ---
 
 # 梁万丰 - 前端开发简历
