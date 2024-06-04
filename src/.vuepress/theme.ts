@@ -94,7 +94,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
@@ -119,6 +119,7 @@ export default hopeTheme({
       imgSize: true,
       include: true,
       mark: true,
+      markmap: true,
       plantuml: true,
       spoiler: true,
       stylize: [
