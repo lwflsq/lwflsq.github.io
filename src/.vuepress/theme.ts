@@ -94,7 +94,10 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    
+    shiki: {
+      // 你想要使用的主题
+      theme: "light-plus",
+    },
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
@@ -122,6 +125,7 @@ export default hopeTheme({
       markmap: true,
       plantuml: true,
       spoiler: true,
+      
       stylize: [
         {
           matcher: "Recommended",

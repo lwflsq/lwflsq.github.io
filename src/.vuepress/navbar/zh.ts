@@ -14,6 +14,10 @@ export const zhNavbar = navbar([
       link:"/posts/vue/"
     },
     {
+      text:"Javascript",
+      link:"/posts/javascript/"
+    },
+    {
       text:"广东专升本报名",
       link:"/posts/gdzsb/"
     }
