@@ -18,6 +18,10 @@ export const zhNavbar = navbar([
       link:"/posts/javascript/"
     },
     {
+      text:"Java学习",
+      link:"/posts/java/"
+    },
+    {
       text:"广东专升本报名",
       link:"/posts/gdzsb/"
     }
