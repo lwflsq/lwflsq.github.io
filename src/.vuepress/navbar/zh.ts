@@ -14,7 +14,7 @@ export const zhNavbar = navbar([
       link:"/posts/vue/"
     },
     {
-      text:"Javascript",
+      text:"前端开发",
       link:"/posts/javascript/"
     },
     {
