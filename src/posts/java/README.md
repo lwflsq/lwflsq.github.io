@@ -8,3 +8,6 @@ title: Java学习
 > 自己选一个学，内容差不多，贪多嚼不烂
 ### 交流网站
 1. [编程导航](https://www.code-nav.cn/)
+
+### 工具
+1. [PDF在线阅读(魔法)](https://cn.online-reader.com/)

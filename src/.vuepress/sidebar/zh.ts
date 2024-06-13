@@ -5,5 +5,6 @@ export const zhSidebar = sidebar({
   "/posts/vue/":"structure",
   "/posts/gdzsb/":"structure",
   "/posts/javascript/":"structure",
-  "/posts/java/":"structure"
+  "/posts/java/":"structure",
+  "/posts/docker/":"structure"
 });

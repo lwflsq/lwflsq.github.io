@@ -24,6 +24,10 @@ export const zhNavbar = navbar([
     {
       text:"广东专升本报名",
       link:"/posts/gdzsb/"
+    },
+    {
+      text:"狂神说Docker",
+      link:"/posts/docker/"
     }
   ]
   },
